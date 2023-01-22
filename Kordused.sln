@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kordused", "Kordused\Kordused.pyproj", "{5F54B6E0-ED44-4960-82B1-75730A6AFFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F54B6E0-ED44-4960-82B1-75730A6AFFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F54B6E0-ED44-4960-82B1-75730A6AFFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8E6EA2-55C6-41C5-98B8-E2883C6E6DB7}
+	EndGlobalSection
+EndGlobal
